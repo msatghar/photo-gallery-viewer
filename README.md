@@ -19,7 +19,8 @@ Initially the page loads with 10 curated images from Pexel API, you can go back 
 
 ## Setup/Installation Requirements
 
-* _Clone this reposiotry to your Desktop in a specific folder_
+* _Clone this repository to your Desktop in a specific folder_
+* _Generate your own API key by visiting the Image & Video API section of your account (https://www.pexels.com/onboarding). Insert this key into "the photo-web-server.js" file on line 3 to run the application seamlessly_
 * _Install Node.js to your machine to enable installing libraries to your project, https://nodejs.org/en/download/" and follow the on screen prompts based on your OS. Verify the installation with “node -v and npm -v”_
 * _Run the command "npm install -g live-server"_ to install a hot reloading instance of your web application. Performing any changes to any of the files automatically refreshes the app to point to the updated version
 * _Head to the folder where all your files exists and run “live-server” to start your application_
